@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thet-Cartter
 - 👀 I’m interested in data scientist
-- 🌱 I’m currently learning data analysis & machine learning technique
+- 🌱 I’m currently worked as data engineer at Z1 Data company
 - 💞️ I’m looking to collaborate on any works or projects relate to data
 - 📫 How to reach me: thet.nouv@gmail.com
 
